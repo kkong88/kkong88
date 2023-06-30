@@ -7,7 +7,7 @@ Welcome to my GitHub page! I'm Kelly Kong, a passionate software engineer with a
 - 🔭 I’m currently working on a clone of the popular application Discord, i wanted to build a clone of a application I use daily, and learning how web sockets working!
 - 📫 How to reach me: Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/kelly-kong-033333186/)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: In my spare time, I like to work on my car.
+- ⚡ Fun fact: In my spare time, I like to work on my car, play games, and cooking.
 
 ## GitHub Stats
 
